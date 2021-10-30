@@ -1,2 +1,16 @@
 # UnityStudy
-Unity Study Repository
+##### proto_box
+
+- 인형뽑기의 메인 기능을 구현한 프로젝트
+
+
+
+**[학습 내용]**
+
+- 오브젝트 배치 및 이동
+
+- assets 자료 다운 및 활용
+- 오브젝트에 C# 스크립트 적용
+
+
+
